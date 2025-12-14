@@ -105,6 +105,6 @@ El documento “Fuentes_documentales.pdf” incluye referencias utilizadas duran
 ---
 
 ## ✨ Autor
-**Ronin**  
+**Cristian Adrian Galvez Ville**  
 Analista de Datos Jr. – Proyecto Final Bootcamp  
 Noviembre 2025
